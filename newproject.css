@@ -341,7 +341,7 @@ label{
 }
 
 .detail iframe{
-    width: 90%;
+    width: 80%;
 }
 
 /* animation*/
@@ -397,7 +397,7 @@ label{
         flex-direction: column;
         flex-wrap: wrap;
     }
-    
+   
     .showcase{
         height: 300px;
     }
@@ -424,6 +424,15 @@ label{
     .read{
         font-size: 13px;
 
+    }
+    .cu{
+        margin:10px 25px;
+    }
+    .service i{
+        margin-left: 30px;
+    }
+    .service .lor{
+        margin-left: auto;
     }
      
 }
