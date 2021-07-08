@@ -435,6 +435,9 @@ label{
         margin-left: auto;
     }
      
+    .logo{
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 500px){
@@ -447,7 +450,7 @@ label{
     }
    .navbar ul{
        padding: 10px;
-       background-color: rgba(0, 0 , 0 , 0.1);
+       background-color: rgba(141, 136, 136, 0.1);
    }
    
    .showcase-form {
